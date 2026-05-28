@@ -7,6 +7,12 @@ or
 ### installation
 1. visit lazyvim, install, rm -rf there .git
 2. git clone this in ~/.config/
+
+```
+cd ~/.config
+git clone git@github.com:kehsihba-etahdiv/nvim-config.git nvim
+```
+
 3. install or fix if any broken old rust-analyzer stuff
 4. done
 
