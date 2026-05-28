@@ -22,7 +22,7 @@ git clone git@github.com:kehsihba-etahdiv/nvim-config.git nvim
 ```
 theme=Github Dark Default
 font-size=18
-background-opacity=0.8
+background-opacity=0.95
 background-blur=true
 
 keybind = cmd+l=goto_split:previous
